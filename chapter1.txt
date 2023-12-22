@@ -1,1 +1,2 @@
-You then import the SQLAlchemy class from the Flask-SQLAlchemy extensions
+You then import the SQLAlchemy class from the Flask
+-SQLAlchemy extensions
